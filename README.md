@@ -6,9 +6,9 @@ Metaverse Chat Application is an Online chat application in which we can join th
 
  # Preview 
 
+ <img src="./assets/project.3.jpeg">
  <img src="./assets/project.1.jpeg">
  <img src="./assets/project.2.jpeg">
- <img src="./assets/project.3.jpeg">
  <img src="./assets/project.4.jpeg">
 
   # Required
