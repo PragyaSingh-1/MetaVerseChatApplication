@@ -1,15 +1,15 @@
 # Metaverse Challenge chat app
 
-This is a decentralized chat app build with next js and moralise to connect with a metamask wallet,at the occasion of the 5 days challenge organized by sony sangha.
+Metaverse Chat Application is an Online chat application in which we can join through our crypto wallet and can chat with the community joined with the Metaverse chat app. The full-stack application provides a seamless experience because of Minimal/Modern UI and Technology. This application is built using BlockChain technology which makes it highly Secure , Decentralized and Robust.
 
  [DEMO](https://metaverse-chatapp.vercel.app/).
 
  # Preview 
 
- <img src="./assets/Screenshot 2022-07-11 at 12.09.48 AM.png">
- <img src="./assets/Screenshot 2022-07-11 at 12.10.33 AM.png">
- <img src="./assets/Screenshot 2022-07-11 at 12.11.01 AM.png">
- 
+ <img src="./assets/project.1.jpeg">
+ <img src="./assets/project.2.jpeg">
+ <img src="./assets/project.3.jpeg">
+ <img src="./assets/project.4.jpeg">
 
   # Required
 
